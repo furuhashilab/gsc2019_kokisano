@@ -2,5 +2,6 @@
 3年佐野公紀　ゼミ論用レポジトリ
 
 ### ゼミ論内容→全ての人々にアクセス権限がある公共ドローンシステムの実現は可能か。
-・プレゼン資料→https://docs.google.com/presentation/d/1sK6hci77wB66VWDzsLREO3fmZuH6N_5laPwgrq21Mu4/edit#slide=id.g78ea6038f3_0_4
+・プレゼン資料→https://docs.google.com/presentation/d/1sK6hci77wB66VWDzsLREO3fmZuH6N_5laPwgrq21Mu4/edit#slide=id.p
+
 
