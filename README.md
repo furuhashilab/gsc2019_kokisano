@@ -8,10 +8,12 @@
 -  [ゼミ論中間発表資料](https://docs.google.com/presentation/d/1sK6hci77wB66VWDzsLREO3fmZuH6N_5laPwgrq21Mu4/edit#slide=id.p)
 
 -  [ゼミ論テンプレート](https://docs.google.com/document/d/1hT6A7MQRmD3jp-NkzAT2dIeWN-2X0_WGo1aTpzgv2CQ/edit)
-# ゼミ論本文
+
+-  [ゼミ論報告書]（https://medium.com/furuhashilab/ドローンによる人命救助の加速案-5c61bf5faf5e）
+
+## 本文
 
 
-・参考文献→https://viva-drone.com/law-on-drones-in-japan/
-・ゼミ論テンプレート→https://docs.google.com/document/d/1hT6A7MQRmD3jp-NkzAT2dIeWN-2X0_WGo1aTpzgv2CQ/edit
+
 
 
