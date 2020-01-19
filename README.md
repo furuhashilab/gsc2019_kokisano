@@ -9,7 +9,7 @@
 
 -  [ゼミ論テンプレート](https://docs.google.com/document/d/1hT6A7MQRmD3jp-NkzAT2dIeWN-2X0_WGo1aTpzgv2CQ/edit)
 
--  [ゼミ論報告書]（https://medium.com/furuhashilab/ドローンによる人命救助の加速案-5c61bf5faf5e）
+-  [ゼミ論報告書](https://medium.com/furuhashilab/ドローンによる人命救助の加速案-5c61bf5faf5e)
 
 ## 本文
 
