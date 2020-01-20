@@ -11,6 +11,8 @@
 
 -  [ゼミ論報告書](https://medium.com/furuhashilab/ドローンによる人命救助の加速案-5c61bf5faf5e)
 
+-  [参考文献テンプレート](https://docs.google.com/spreadsheets/d/1g0eQedyXYkM6U7-wQ9Sk8WuwJ6fTcOxlsa2oQIvfT6o/edit?usp=sharing)
+
 -----------
 # ゼミ論本文
 ## はじめに
@@ -72,7 +74,4 @@
 - https://www.aed.omron.co.jp/wecan/try/02/
 ## 謝辞
 本研究を進めるにあたり青山学院大学・地球社会共生学部教授の古橋大地氏をはじめ多くの方々より多大な助言を賜りました。厚く感謝を申し上げます。
-
-
-
 
