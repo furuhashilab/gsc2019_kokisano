@@ -64,6 +64,7 @@
 ## 参考文献
 - https://roboteer-tokyo.com/archives/5076
 - https://www.mlit.go.jp/koku/koku_tk10_000003.html#a
+- https://www.aed.omron.co.jp/wecan/try/02/
 ## 謝辞
 本研究を進めるにあたり青山学院大学・地球社会共生学部教授の古橋大地氏をはじめ多くの方々より多大な助言を賜りました。厚く感謝を申し上げます。
 
