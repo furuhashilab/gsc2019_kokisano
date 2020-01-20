@@ -13,7 +13,7 @@
 
 -  [参考文献テンプレート](https://docs.google.com/spreadsheets/d/1g0eQedyXYkM6U7-wQ9Sk8WuwJ6fTcOxlsa2oQIvfT6o/edit?usp=sharing)
 
--  [ゼミ論最終発表資料](https://docs.google.com/presentation/d/1DdGM_dXuUQODMRYJt2wPjhBJuJjZrWy2z_LjX31izCY/edit#slide=id）
+-  [ゼミ論最終発表資料](https://docs.google.com/presentation/d/1DdGM_dXuUQODMRYJt2wPjhBJuJjZrWy2z_LjX31izCY/edit#slide=id) 
 
 
 -----------
