@@ -2,7 +2,7 @@
 
 「ドローンによる人命救助の加速案」
 
-地球社会共生学部　1A117081 佐野公紀
+青山学院大学　地球社会共生学部　1A117081 佐野公紀
 
 ## 資料一覧
 -  [ゼミ論中間発表資料](https://docs.google.com/presentation/d/1sK6hci77wB66VWDzsLREO3fmZuH6N_5laPwgrq21Mu4/edit#slide=id.p)
