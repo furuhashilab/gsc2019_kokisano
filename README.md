@@ -96,6 +96,8 @@
 - https://dronetribune.jp/articles/16641/
 - https://japanese.engadget.com/2019/10/17/skydio-24/
 - http://home.kingsoft.jp/news/app/radiolife/25586.html
+- https://av.watch.impress.co.jp/docs/news/1212002.html
+
 ## 謝辞
 本研究を進めるにあたり青山学院大学・地球社会共生学部教授の古橋大地氏をはじめ多くの方々より多大な助言を賜りました。厚く感謝を申し上げます。
 
